@@ -1,0 +1,19 @@
+{
+  "author": {
+    "name": "liandong liu"
+  },
+  "name": "fiddler",
+  "description": "fiddler - The free web debugging proxy",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/linkwisdom/fiddler.git"
+  },
+  "main": "./src/index.js",
+  "keywords": [
+    "fiddler"
+  ],
+  "engines": {
+    "node": "*"
+  }
+}
